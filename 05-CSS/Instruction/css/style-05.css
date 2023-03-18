@@ -11,3 +11,15 @@
 .center{
     text-align: center;
 }
+
+h1.center{
+    background-color:indigo
+}
+
+#p1{
+    text-align: justify;
+}
+
+.span1{
+    color: crimson;
+}
