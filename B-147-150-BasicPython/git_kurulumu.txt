@@ -1,0 +1,33 @@
+1) GIT KURULUMU
+	https://git-scm.com/
+	
+2) GIT KURULDU MU?
+	git --version
+	
+3) GIT AYARLAR
+	git config --global user.name "Ali Gel"
+	git config --global user.email "ali@gel.com"
+	git config --global color.ui true
+
+4) GITHUP HESAP ACMA
+	http://githup.com
+	
+5) GITHUP REPO OLUSTURMA
+
+6) GIT-GITHUP ILISKILENDIRME
+	git clone ...
+
+7) GIT ILE LOKAL VERSION OLUSTURMA
+	git status
+	git add .
+	git commit -m"v1"
+	git push
+
+8) LOKAL VERSIONU GITHUP A GONDERME
+
+
+
+
+NOTLAR
+*set pro
+*git --version
