@@ -1,0 +1,8 @@
+.chk-mode{
+    display: none;
+}
+
+.chk-mode:checked + .content{
+    background-color: black;
+    color: white;
+}
