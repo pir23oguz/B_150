@@ -2,5 +2,9 @@
     width:200px;
     height: 200px;
     background-color: red;
-    transform: translate(50%, 300px);
+    transform: translateX(50%) skew(45deg);
+}
+
+.img-iphone{
+    transform: rotate(-60deg) scale(0.5) translateX(60%);
 }
