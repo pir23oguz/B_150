@@ -31,7 +31,8 @@ a {
     content: "\f008";
     font: var(--fa-font-solid);
 }
-.paraf+ul li:nth-child(2n){
-color: aqua;
-background-color: black;
+
+.paraf+ul li:nth-child(2n) {
+    color: aqua;
+    background-color: black;
 }
