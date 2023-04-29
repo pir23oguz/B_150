@@ -3,7 +3,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    margin:0;
+    margin: 0;
 }
 
 .bottom-section {
@@ -14,22 +14,23 @@ body {
 .bottom-section .contact {
     background-color: #515603;
     color: white;
-    padding:10px;
+    padding: 10px;
 }
 
 .bottom-section .about {
     background-color: #722300;
     color: rgb(231, 222, 222);
-    padding:10px;
+    padding: 10px;
 }
 
-.bottom-section .contact h2 ,
+.bottom-section .contact h2,
 .bottom-section .about h2 {
     font-weight: 300;
     font-size: 65px;
     margin: 10px;
 }
-.bottom-section .contact p ,
+
+.bottom-section .contact p,
 .bottom-section .about p {
     font-weight: 300;
     font-size: 20px;
