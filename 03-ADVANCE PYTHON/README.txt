@@ -1,1 +1,0 @@
-Full Stack Python Developer
