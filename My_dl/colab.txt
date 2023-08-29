@@ -1,0 +1,7 @@
+COLAB
+
+https://colab.research.google.com/
+
+
+from google.colab import drive
+drive.mount ('/content/drive')
